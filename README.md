@@ -1,4 +1,4 @@
-#Full-Stack
+# Full-Stack
 Hey Coders, Its About Full Stack Preperation Statergy.
 
 ### Detailed Weekly Roadmap for Full-Stack Development (6 Months)  
